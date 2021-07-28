@@ -6,7 +6,7 @@
 
 #### 생성 패턴(Creational Patterns)
 1. [싱글톤 패턴(Singleton)](https://github.com/jang010505/DesignPattern/tree/master/src/creational/singleton)
-2. 추상팩토리 패턴(Abstract Factory)
+2. [추상팩토리 패턴(Abstract Factory)](https://github.com/jang010505/DesignPattern/tree/master/src/creational/abstracts)
 3. 빌더 패턴(Builder)
 4. 팩토리 메서드 패턴(Factory Method)
 5. 원형 패턴(Prototype)
@@ -36,3 +36,4 @@
 
 ### 출처
 [코딩팩토리](https://coding-factory.tistory.com/)
+[Sup2](https://sup2is.github.io/)
