@@ -1,6 +1,6 @@
-package creational.singleton.ex;
+package creational.singleton.lab;
 
-import creational.singleton.Singleton;
+import creational.singleton.ex.Singleton;
 
 public class CreditCard {
     public static CreditCard instance = null;

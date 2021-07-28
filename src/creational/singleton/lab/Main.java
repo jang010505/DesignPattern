@@ -1,4 +1,6 @@
-package creational.singleton.ex;
+package creational.singleton.lab;
+
+import creational.singleton.lab.People;
 
 public class Main {
     public static void main(String[] args) {

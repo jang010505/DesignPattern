@@ -1,4 +1,4 @@
-package creational.singleton.ex;
+package creational.singleton.lab;
 
 public class People {
     private final CreditCard card;
