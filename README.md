@@ -8,7 +8,7 @@
 1. [싱글톤 패턴(Singleton)](https://github.com/jang010505/DesignPattern/tree/master/src/creational/singleton)
 2. [추상팩토리 패턴(Abstract Factory)](https://github.com/jang010505/DesignPattern/tree/master/src/creational/abstracts)
 3. [빌더 패턴(Builder)](https://github.com/jang010505/DesignPattern/tree/master/src/creational/builder)
-4. 팩토리 메서드 패턴(Factory Method)
+4. [팩토리 메서드 패턴(Factory Method)](https://github.com/jang010505/DesignPattern/tree/master/src/creational/factory)
 5. 원형 패턴(Prototype)
 
 #### 구조 패턴(Structural Patterns)
