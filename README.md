@@ -9,7 +9,7 @@
 2. [추상팩토리 패턴(Abstract Factory)](https://github.com/jang010505/DesignPattern/tree/master/src/creational/abstracts)
 3. [빌더 패턴(Builder)](https://github.com/jang010505/DesignPattern/tree/master/src/creational/builder)
 4. [팩토리 메서드 패턴(Factory Method)](https://github.com/jang010505/DesignPattern/tree/master/src/creational/factory)
-5. 원형 패턴(Prototype)
+5. [원형 패턴(Prototype)](https://github.com/jang010505/DesignPattern/tree/master/src/creational/prototype)
 
 #### 구조 패턴(Structural Patterns)
 1. 적응자 패턴(Adapter or Wrapper)
