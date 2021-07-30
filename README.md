@@ -35,6 +35,6 @@
 
 
 ### 출처
-[코딩팩토리](https://coding-factory.tistory.com/)
-[Sup2](https://sup2is.github.io/)
-[KTKO](https://ktko.tistory.com/)
+1. [코딩팩토리](https://coding-factory.tistory.com/)
+2. [Sup2](https://sup2is.github.io/)
+3. [KTKO](https://ktko.tistory.com/)
